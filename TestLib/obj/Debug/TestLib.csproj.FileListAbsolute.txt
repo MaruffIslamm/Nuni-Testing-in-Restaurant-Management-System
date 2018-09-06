@@ -1,0 +1,12 @@
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\bin\Debug\TestLib.dll
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\bin\Debug\TestLib.pdb
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\bin\Debug\nunit.framework.dll
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\bin\Debug\ProjectXtestpilot.exe
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\bin\Debug\ProjectXtestpilot.pdb
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\bin\Debug\nunit.framework.xml
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\obj\Debug\TestLib.dll
+F:\Study\CSE 435(Software Quality Assurance)\Final Project\Restaurant Management\ProjectXtestpilot\TestLib\obj\Debug\TestLib.pdb
